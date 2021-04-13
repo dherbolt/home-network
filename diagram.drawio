@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T15:02:21.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="j477RByv6K5LuqzGg2ZS" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T15:04:28.882Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="g8h4aUjNWGupOmZB_5TQ" version="14.5.10" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -157,6 +157,24 @@
         </mxCell>
         <mxCell id="dReOzRF-Hoq0QVS8l2vs-22" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="855.75" y="398" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dReOzRF-Hoq0QVS8l2vs-25" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="750" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dReOzRF-Hoq0QVS8l2vs-26" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dReOzRF-Hoq0QVS8l2vs-27" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dReOzRF-Hoq0QVS8l2vs-28" value="Aktualní zapojení" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="745" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dReOzRF-Hoq0QVS8l2vs-29" value="Plánované rozšíření 1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="795" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dReOzRF-Hoq0QVS8l2vs-30" value="Plánované rozšíření 2" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="845" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
